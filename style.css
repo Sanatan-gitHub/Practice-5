@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;500;700;900&family=Roboto:wght@900&display=swap');
+.main{
+    position: relative;
+    background-image: url(https://www.hdwallpapers.in/download/snow_covered_hills_with_trees_during_dawn_morning_hd_nature-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.middle{
+ padding-top: 12%;
+ padding-left: 22%;
+}
+.main-1{
+    color: white;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.left-button{
+    padding: 5px 10px;
+}
+.line{
+    /* text-decoration: 3px underline skyblue; */
+    /* text-decoration-thickness: 3px; */
+    padding: 0 0 5px 0;
+    border-bottom: 5px solid skyblue;
+}
+.text{
+    font-size: 70px;
+    color: white;
+}
+.text-1{
+    text-decoration: underline skyblue;
+    text-decoration-thickness: 5px;
+}
+.text-2{
+    color: white;
+}
+.text-3{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 150px;
+    padding-bottom: 5px;
+}
+.text-4{
+    padding: 5px 40px;
+}
+.text-5{
+    padding-top: 20px;
+}
